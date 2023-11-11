@@ -2,5 +2,24 @@ body
 {
     color: cornflowerblue;
     text-align: center;
+<<<<<<< HEAD
     font-family: 'Courier New', Courier, monospace;
+=======
+    font-family: "Arial";
+}
+#cabecera
+{
+    background: cadetblue;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5cm;
+    font-size: 30px;
+}
+
+#cabecera #tagline
+{
+    font-weight: normal;
+    font-size: 20px;
+>>>>>>> cabecera
 }
